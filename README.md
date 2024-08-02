@@ -10,4 +10,4 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvindutra3012&repo=kelvindutra3012.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvindutra3012&repo=kelvindutra3012&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
