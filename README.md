@@ -16,6 +16,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvindutra3012&repo=projetobootstrapalura&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvindutra3012&repo=sitedkshoes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvindutra3012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
