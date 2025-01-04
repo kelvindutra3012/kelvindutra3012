@@ -13,15 +13,15 @@ Minha missão permanece a mesma: conectar pessoas ao futuro, seja através do en
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvindutra3012&repo=projetopet&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvindutra3012&repo=projetopet&theme=dark)](https://petlife-hazel.vercel.app/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvindutra3012&repo=gamehouse&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvindutra3012&repo=gamehouse&theme=dark)](https://coliseugamehouse.vercel.app/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvindutra3012&repo=projetobootstrapalura&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvindutra3012&repo=projetobootstrapalura&theme=dark)](https://projetometeoraalura.vercel.app/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvindutra3012&repo=sitedkshoes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvindutra3012&repo=sitedkshoes&theme=dark)](https://dkshoessite.vercel.app/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvindutra3012&repo=projeto_calculadora_medias&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelvindutra3012&repo=projeto_calculadora_medias&theme=dark)](https://kelvin-projeto-calculadora-medias.vercel.app/)
 
 
 
